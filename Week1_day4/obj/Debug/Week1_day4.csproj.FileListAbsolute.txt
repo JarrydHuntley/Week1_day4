@@ -1,0 +1,6 @@
+c:\users\jarry\documents\visual studio 2015\Projects\Week1_day4\Week1_day4\bin\Debug\Week1_day4.exe.config
+c:\users\jarry\documents\visual studio 2015\Projects\Week1_day4\Week1_day4\bin\Debug\Week1_day4.exe
+c:\users\jarry\documents\visual studio 2015\Projects\Week1_day4\Week1_day4\bin\Debug\Week1_day4.pdb
+c:\users\jarry\documents\visual studio 2015\Projects\Week1_day4\Week1_day4\obj\Debug\Week1_day4.csprojResolveAssemblyReference.cache
+c:\users\jarry\documents\visual studio 2015\Projects\Week1_day4\Week1_day4\obj\Debug\Week1_day4.exe
+c:\users\jarry\documents\visual studio 2015\Projects\Week1_day4\Week1_day4\obj\Debug\Week1_day4.pdb
